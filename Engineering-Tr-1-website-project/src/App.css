@@ -143,7 +143,7 @@
   border-radius: 8px;
   border: 1px solid var(--border);
   background: #fff8ef;
-  color: var(--text-h);
+  color: rgb(105, 106, 146);
   cursor: pointer;
   transition: all 0.2s;
 }
