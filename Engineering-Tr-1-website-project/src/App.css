@@ -142,7 +142,7 @@
   font-size: 14px;
   border-radius: 8px;
   border: 1px solid var(--border);
-  background: #ffff;
+  background: #fff8ef;
   color: var(--text-h);
   cursor: pointer;
   transition: all 0.2s;
